@@ -1,0 +1,5 @@
+cow
+sheep
+car
+train
+dog
